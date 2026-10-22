@@ -1,0 +1,14 @@
+C:\Users\bruno\Downloads\BatalhaNaval\bin\Debug\net10.0\BatalhaNaval.exe
+C:\Users\bruno\Downloads\BatalhaNaval\bin\Debug\net10.0\BatalhaNaval.deps.json
+C:\Users\bruno\Downloads\BatalhaNaval\bin\Debug\net10.0\BatalhaNaval.runtimeconfig.json
+C:\Users\bruno\Downloads\BatalhaNaval\bin\Debug\net10.0\BatalhaNaval.dll
+C:\Users\bruno\Downloads\BatalhaNaval\bin\Debug\net10.0\BatalhaNaval.pdb
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.AssemblyInfo.cs
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.dll
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\refint\BatalhaNaval.dll
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.pdb
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\BatalhaNaval.genruntimeconfig.cache
+C:\Users\bruno\Downloads\BatalhaNaval\obj\Debug\net10.0\ref\BatalhaNaval.dll
