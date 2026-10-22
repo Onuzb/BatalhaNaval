@@ -6,12 +6,11 @@ namespace BatalhaNaval
 {
     enum Navio { Nenhum, PortaAvioes, Rebocador, Cruzador }
 
-    // Registro de cada bomba lançada (para listar no final)
     class Tiro
     {
         public string Coordenada;
-        public Navio Acertou;   // Nenhum = errou
-        public char Erro;       // '1', '2', '3' ou 'M' (só vale quando errou)
+        public Navio Acertou;
+        public char Erro;
     }
 
     class Partida
@@ -31,7 +30,6 @@ namespace BatalhaNaval
 
         public Partida()
         {
-            // 10 porta-aviões, 1 cruzador e 2 rebocadores, sem repetir posição
             Posicionar(Navio.PortaAvioes, 10);
             Posicionar(Navio.Cruzador, 1);
             Posicionar(Navio.Rebocador, 2);
